@@ -2,7 +2,7 @@
 <--------------Placement cell ----------
 
 # My hosted site
-https://placement-cell-755affa319ca.herokuapp.com
+https://placementprojectt.onrender.com/
 
 #Dependencies
 <ol>
